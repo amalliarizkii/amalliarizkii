@@ -2,12 +2,15 @@
 
 ### Thank you for visiting my page! 
 
-<br> I am passionate about Software Quality Assurance and very interested in correcting a product in detail before it is finally used by the user, and this is what made me decide to change my career to become a quality Assurance. I hope can contribute to the development of products with interactive and user-friendly systems.
+I am passionate about Software Quality Assurance and very interested in correcting a product in detail before it is finally used by the user, and this is what made me decide to change my career to become a quality Assurance. I hope can contribute to the development of products with interactive and user-friendly systems.
 
-# 💫 About Me:
-🔭 I’m currently working with Java, Postman, Rest Assured and Serenity BDD. <br>🌱 I’m currently learning Software Quality Assurance and Data Science.<br>💬 Ask me about everything in here [here] (tamararizkiaaa@gmail.com) <br>
+### 💫 About Me:
+🔭 I’m currently working with Java, Postman, Rest Assured and Serenity BDD. <br>
+🌱 I’m currently learning Software Quality Assurance and Data Science.<br>
+💬 Ask me about anything tech related, I am happy to help [here](tamararizkiaaa@gmail.com)
+  <br>
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/amalliarizkii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tamaraamalia20/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/qlosstams) 
 
 ### Languages and Tools:
